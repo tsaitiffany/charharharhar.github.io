@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! My name is Justin and I am a senior computer science major at UT.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an alcoholic lightweight as well as a non-practicing vegan
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tran.d.justin@gmail.com](mailto:tran.d.justin@gmail.com)
