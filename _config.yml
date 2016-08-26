@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: CS371p Fall 2016: Justin Tran
+name: CS371p Fall 2016 Justin Tran
 
 # Short bio or description (displayed in the header)
 description: Blog for Downing's Software Engineering Class
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/13155834?v=3&s=460
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
